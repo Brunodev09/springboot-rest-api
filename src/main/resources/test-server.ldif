@@ -1,0 +1,13 @@
+dn: dc=breadcrumbdata,dc=com
+objectClass: top
+objectClass: domain
+
+dn: uid=brunodev09,dc=breadcrumbdata,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: bruno dev
+sn: giannotti
+uid: bruno
+userPassword: 123
