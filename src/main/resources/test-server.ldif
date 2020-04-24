@@ -1,8 +1,8 @@
-dn: dc=breadcrumbdata,dc=com
+dn: dc=example,dc=com
 objectClass: top
 objectClass: domain
 
-dn: uid=brunodev09,dc=breadcrumbdata,dc=com
+dn: uid=brunodev09,dc=example,dc=com
 objectClass: top
 objectClass: person
 objectClass: organizationalPerson
